@@ -1,0 +1,56 @@
+Autocomplete - Автозаполнение
+
+Close Tag - Закрыть тег
+
+Auto Complete Tag - Автозаполнение тега
+
+Auto Rename Tag - Авто переименовать тег
+
+Code Runner - Бегунок Кода
+
+JavaScript  code snippets - Фрагменты кода JavaScript
+	snippets - обрывки - Фрагменты
+
+Live Server - Живой сервер
+
+Multiple clipboards for VSCode - Несколько буферов обмена для VSCode
+
+Sass - пререкаться
+	nasty - противный
+
+Easy Less - Легко Меньше
+
+Theme - Oceanic Next - Тема - Океаническая Следующая
+	Next - следующий
+
+icons - иконки
+retry - повторная попытка
+assess - оценить
+example - пример
+relative - относительный
+
+Developer Tool - Инструмент разработчика
+	Developer - разработчик
+	Tool - Инструмент
+
+around - Вокруг, около
+space - пространство
+app  -  Приложение ( Дополнение )
+ease - Простота, лёгкость
+before - Перед
+Perfect - Отлично
+restore - восстановить
+store - хранить
+second - Второй, Вторичный
+commit - совершать, фиксировать, поручать
+readme - Прочти меня, описание
+read - читать
+remote - дистанционный, удаленный, отдаленный
+add - Добавить, сложить, прибавлять
+origin - источник, начало, происхождения
+shell - оболочка, корпус
+sass - пререкаться
+your - Ваш
+touch - сенсорный, прикосновение
+pull - тянуть, вытащить
+upload - загрузка, загружать
